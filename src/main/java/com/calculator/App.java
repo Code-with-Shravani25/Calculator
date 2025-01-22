@@ -18,6 +18,7 @@ public class App {
         double num2 = scanner.nextDouble();
 */
       String operation = add;
+      double num1=20, num2=10;
         double result = 0;
         switch (operation) {
             case "add":
