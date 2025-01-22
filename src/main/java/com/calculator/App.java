@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class App {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        /*Scanner scanner = new Scanner(System.in);
 
         System.out.println("Welcome to the Calculator!");
         System.out.println("Choose an operation: add, subtract, multiply, divide");
@@ -16,7 +16,8 @@ public class App {
 
         System.out.println("Enter the second number:");
         double num2 = scanner.nextDouble();
-
+*/
+      operation = add;
         double result = 0;
         switch (operation) {
             case "add":
