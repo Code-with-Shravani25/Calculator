@@ -17,7 +17,7 @@ public class App {
         System.out.println("Enter the second number:");
         double num2 = scanner.nextDouble();
 */
-      String operation = add;
+      String operation = "add";
       double num1=20, num2=10;
         double result = 0;
         switch (operation) {
